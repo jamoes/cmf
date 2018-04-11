@@ -4,6 +4,12 @@ Change log
 This gem follows [Semantic Versioning 2.0.0](http://semver.org/spec/v2.0.0.html).
 All classes and public methods are part of the public API.
 
+1.0.1
+----
+Released on 2018-04-10
+
+Updated documentation to indicate only Ruby 2.1 and above is supported.
+
 1.0.0
 ----
 Released on 2018-04-10
