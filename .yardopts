@@ -1,0 +1,7 @@
+--readme README.md
+--markup markdown
+lib/cmf.rb
+lib/cmf/*.rb
+-
+CHANGELOG.md
+LICENSE
